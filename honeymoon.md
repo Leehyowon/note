@@ -114,20 +114,25 @@
 - 12:00 🍖 Es Magatzem. Fat y Salat(해물야채볶음, 깔라마리, 꿀대구)
 - 13:30 🚘 이동(76.6km, 1시간 20분)
 - 15:00 🏠 체크인(Hotel Can Abril)
-- 16:00 🍦 Mister McCoy's Island Ices(젤라또)
-- 16:30 🚘 나무 트램(소예르 시내 -> 소예르 항구)
-- 17:00 🏝️ 소예르 항구
-- 19:15 🍖 Xelini Port de Sóller(감바스, 감자튀김, 크로켓)
-- 21:00 204번 버스(소예르 항구 -> 숙소🏠)
+- 16:30 🍦 Mister McCoy's Island Ices(젤라또)
+- 17:00 🎨 소예르 시내(소예르 성당, 소예르 광장)
+- 19:00 🍖 Groenk Bistro & Grill Fornalutx(생선구이, 스테이크, 깔라마리, 라구파스타/ 이베리코 슈니첼, 오징어링, 할라피뇨 비프버거)
+- 21:00 🏠 숙소 도착, 테라스에서 와인 먹기
 
 **Day 4 (일): 소예르 시내 -> 데이아**
 
 - 11:00 🏠 체크아웃(Hotel Can Abril)
-- 11:30 🎨 소예르 시내(소예르 성당, 소예르 광장)
-- 13:00 🍖 Groenk Bistro & Grill Fornalutx(이베리코 슈니첼, 오징어링, 할라피뇨 비프버거)
-- 16:00 🏝️ Sa Foradada
-- 19:00 🍖 Restaurant Miro or El Olivo
-- 22:00 🏠 체크인(Melia Palma Bay)
+- 11:30 🚘 나무 트램(소예르 시내 -> 소예르 항구)
+- 12:00 🏝️ 소예르 항구
+- 13:30 🍖 Xelini Port de Sóller(감바스, 감자튀김, 크로켓)
+- 15:30 🚘 도보 13분(850m), 버스 5분, 도보 13분(900m) - 버스 배차 30분
+- 16:00 ~ 17:00 🚘 차량 40분(31.7km)
+- 17:00 🏠 체크인(Melia Palma Bay)
+- 17:30 ~ 17:50 🚘 차량 12분(10.3km)
+- 18:00 ✈️ 렌트카 반납
+- 19:00 🍖 La Bella Vita(링귀니 프루티 디 마레(새우 오일 파스타), 펜네 아라비아따, 피자)
+- 20:30 ~ 21:00 🚘 도보 4분(280m), 버스 14분, 도보 1분(93m)
+- 21:00 🏠 숙소 도착
 
 **숙소🏠 Meliá Palma Bay (6/1 15:00 ~ 6/3 12:00)** - 예약완료, 결제 전
 
@@ -145,9 +150,8 @@
 - 12:00 🍖 로컬 시장(Mercat de l’Olivar) - 오이스터 바
 - 13:00 🍦 Sto Cristo-Pastissos or Ca’n Joan de s’Algo(엔사이마다)
 - 14:00 🍦 Sa Gelateria de Mallorca(젤라또)
-- 15:00 🏠 숙소 - 차량 픽업
 - 16:00 🏝️ Cala Major
-- 19:00 🍖 Mesón Ca´n Pedro, Génova(cochinillo(새끼돼지), Arroz Brut(달팽이국밥), 주피토(샷))
+- 19:00 🍖 Mesón Ca´n Pedro(Génova(cochinillo(새끼돼지), Arroz Brut(달팽이국밥), 주피토(샷))
 - 20:30 산책(Port de Palma)
 
 **Day 6 (화): 쇼핑 후 파리 이동**
@@ -164,7 +168,7 @@
 - 렌터카 대여(Wiber): 캐리어 들어가는 선에서 가장 작은 차(비틀 등 28인치 캐리어 안 들어감)
 - 소예르 나무 트램 시간표 [링크](https://trendesoller.com/eng/timetable)
 - 소예르 204번 버스 시간표 [링크](https://www.tib.org/en/linies-i-horaris/autobus/-/linia/204)
-- 데이아 벨몬드 라 레지덴시아 식당 픽스(시간이 너무 늘어짐): 카페 미로, 엘 올리보 [링크](https://www.belmond.com/hotels/europe/mallorca/deia/belmond-la-residencia/dining)
+- 데이아 카페 미로 갈지 [링크](https://www.belmond.com/hotels/europe/mallorca/deia/belmond-la-residencia/dining)
 - 마지막 날 굳이 쇼핑 안 해도 되는데 뭐 할까
 
 ---
@@ -178,7 +182,7 @@
 - 위치 [링크](https://maps.app.goo.gl/ixg391k5VyEgv4QdA)
 - 👍 위치
 - 👍 5.31까지 무료 취소 가능
-- 👎 번화가라 시끄럽고, 숙소🏠가 작음
+- 👎 번화가라 시끄럽고, 숙소가 작음
 
 **Day 1 (화)**
 
