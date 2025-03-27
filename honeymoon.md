@@ -110,7 +110,7 @@
 - AluaSoul Mallorca Resort (All-Inclusive)
 - 3박 €591유로 (Deposit €89 Already Paid, 15% Discount)
 - All-Inclusive
-  - Terra Café 뷔페 레스토랑: 7:30~10:30, 13:00~15:00, 18:30~21:30
+  - Terra Café 뷔페 레스토랑: 7:30 ~ 10:30, 13:00 ~ 15:00, 18:30 ~ 21:30
   - Kentia Beach Club 스낵바: 10:00~23:30, 12:00~17:00
   - 웰니스 센터: 사우나, 스팀룸, 터키식 목욕탕 등 포함 ​
   - 피트니스 센터: 최신 시설 완비​
