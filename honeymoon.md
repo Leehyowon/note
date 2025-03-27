@@ -328,3 +328,26 @@
       - 가벼운 가방, 물병, 간식.
       - 가벼운 가방, 물병, 간식.
       - 카메라 및 메모리 카드.
+
+<table>
+  <tr>
+    <th style="text-align:center; width: 150px;">도시</th>
+    <th style="text-align:center; width: 80px;">기간</th>
+    <th style="text-align:center;">숙박 (만원)</th>
+    <th style="text-align:center;">투어/입장권 (만원)</th>
+    <th style="text-align:center;">교통 (만원)</th>
+    <th style="text-align:center;">식비 (만원)</th>
+    <th style="text-align:center;">총 예산 (만원)</th>
+    <th style="text-align:center;">비고</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">바르셀로나</td>
+    <td style="text-align:center;">4박</td>
+    <td style="text-align:center;">90</td>
+    <td style="text-align:center;">60</td>
+    <td style="text-align:center;">5</td>
+    <td style="text-align:center;">80+</td>
+    <td style="text-align:center;">230+</td>
+    <td style="text-align:center;"></td>
+  </tr>
+</table>
