@@ -266,8 +266,13 @@
 
 - 파리 스냅: 30분 15만원 [링크](https://www.myrealtrip.com/offers/58142)
 - 루브르 투어: 70,900원/1인, 8:50~12:30, 13:50~17:30 [링크](https://www.klook.com/ko/activity/71275-louvre-museum-paris/)
-- [생략] 베르사유 투어: 140,100/1인, 현장결제 11유로/1인, 식사 미포함(도시락 가능), 7:40~18:30 [링크](https://www.klook.com/ko/activity/71674-giverny-guide-tour-paris/)
-- 뮤지엄 패스 4일권: 144,000원/1인 [링크](https://www.klook.com/ko/activity/3310-museum-pass-paris/?spm=SearchResult.SearchResult_LIST&clickId=ad2d64106a)
+- 뮤지엄 패스 4일권: 139,850원/1인 [링크]([https://www.klook.com/ko/activity/3310-museum-pass-paris/?spm=SearchResult.SearchResult_LIST&clickId=ad2d64106a](https://www.myrealtrip.com/offers/164921))
+  - 출국 전 인천공항 수령(면세점구역 27번 게이트 4층 북카페(스타벅스))
+  - 사전 예약 필요: 베르사유, 루브르, 오랑주리, 생트샤펠, 콩시에르주리, Hotel de la Marine, 파리 건축 문화재 단지, 유대교 예술과 역사 박물관
+    - 루브르 ( https://www.louvre.fr/en)
+    - 오랑주리 (https://www.musee-orangerie.fr/fr)
+    - 생트 샤펠 ( https://www.sainte-chapelle.fr/)
+  - 구성: 루브르, 개선문, 노트르담대성당, 오르세미술관, 오랑주리미술관, 판테온, 로댕 미술관/ 베르사유 궁전, 로댕의 집, 사부아블라, 퐁텐블로 성
 - 대중교통 패스
 - 와인 쇼핑: Nicolas
 
