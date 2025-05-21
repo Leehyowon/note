@@ -11,7 +11,7 @@
 
 ### 할 일
 - 바르셀로나 T-Casual/1zona  구매 <img width="709" alt="스크린샷 2025-05-21 오후 8 01 32" src="https://github.com/user-attachments/assets/450bbfea-5fe6-457d-ac57-e65f5b197012" />
-- 파리 Carnet 10회권 + Navigo Easy 카드
+- 파리 Carnet 10회권 + Navigo Easy 카드 [링크](https://m.blog.naver.com/yeahappy00/223043760378)
 - 파리 바토무슈(당일 예약 가능), 노트르담 대성당(6.4 수/ 14, 15, 16시 다 예약 걸기)
 
 ---
